@@ -1,7 +1,9 @@
 # WAMP2023 Badge Repo
 
-![](./.github/badge1.jpg)
-![](./.github/ap2.jpg)
+<img src="./.github/logo.jpg" width="300" />
+<img src="./.github/badge.jpg" width="300" />
+<img src="./.github/badge1.jpg" width="300" />
+<img src="./.github/ap2.jpg" width="300" />
 
 This repo contains all stuff from the [WAMP2023](https://westwood.camp) Badge.
 
