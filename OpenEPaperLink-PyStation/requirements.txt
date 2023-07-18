@@ -1,0 +1,5 @@
+pyserial
+pillow
+bitarray
+websockets
+paho-mqtt

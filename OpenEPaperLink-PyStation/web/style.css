@@ -1,0 +1,36 @@
+body {
+    padding-top: 55px;
+}
+
+#taglist {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.tagcard {
+    /* width: 225px; */
+    /* position: relative; */
+    /* min-height: 170px; */
+    margin: 5px;
+    /* padding: 5px; */
+    /* border: 1px solid #333; */
+    transition: box-shadow 0.3s ease;
+}
+
+.pending {
+    animation: pending 1.5s ease infinite;
+    background-color: rgb(231, 150, 0);
+}
+
+.offline {
+    background-color: rgb(226, 0, 0);
+}
+
+.online {
+    background-color: #00bb19;
+}
+
+.mac {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}

@@ -1,4 +1,4 @@
-# WAMP Lanyard Holder
+# WAMP2023 Badge - Lanyard Holder
 
 ![](./back.jpg)
 

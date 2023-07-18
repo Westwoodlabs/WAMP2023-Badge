@@ -1,0 +1,7 @@
+PUT http://192.168.88.223/config
+
+{"mqtt_broker": "192.168.88.224", "mqtt_id": "ap0", "mqtt_username": "", "mqtt_password": ""}
+
+###
+
+POST http://192.168.88.223/reboot
