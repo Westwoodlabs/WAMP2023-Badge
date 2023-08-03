@@ -1,8 +1,8 @@
-# WAMP2023 Badge - OpenEpaperLink-PyStation
+# WAMP2023 Badge - OpenEpaperLink-PyStation - UART-Edition
 
 ![](../.github/dashboard.jpg)
 
-Port of the ESP stuff from [OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) to a Python/MQTT backend.
+Port of the ESP stuff from [OpenEPaperLink](https://github.com/jjwbruijn/OpenEPaperLink) to a Python/UART backend.
 
 ## Webserver
 
